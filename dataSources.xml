@@ -1,0 +1,16 @@
+<application>
+  <component name="dataSourceStorage" format="xml">
+    <data-source source="LOCAL" name="PostgreSQL - openidm@10.75.238.16" uuid="e21b2d97-9bf0-4252-a912-be2acf0a0454">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://10.75.238.16:5432/openidm</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="PostgreSQL - openidm@test-forgerock.ca772hpzc8vf.us-east-1.rds.amazonaws.com" uuid="eb7d1413-1628-4648-aa1c-0ec449263dd8">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://test-forgerock.ca772hpzc8vf.us-east-1.rds.amazonaws.com:5432/openidm</jdbc-url>
+    </data-source>
+  </component>
+</application>
