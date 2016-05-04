@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'shared-platform'" />
-    <option name="defaultScopeName" value="Project 'shared-platform'" />
+    <option name="customScope" value="Project 'rms-one-import'" />
+    <option name="defaultScopeName" value="Project 'rms-one-import'" />
     <option name="localCaseSensitive" value="true" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'shared-platform'" />
+    <option name="SEARCH_SCOPE" value="Project 'rms-one-import'" />
   </component>
 </application>
