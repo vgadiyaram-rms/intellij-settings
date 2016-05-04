@@ -1,0 +1,350 @@
+<application>
+  <component name="sonar-resources-application-component">
+    <option name="sonarResourcesBySonarServerName">
+      <map>
+        <entry key="Sonar">
+          <value>
+            <list>
+              <Resource>
+                <option name="creationDate" value="1455131720000" />
+                <option name="date" value="1455711469000" />
+                <option name="description" value="Model execution using Spark" />
+                <option name="id" value="47" />
+                <option name="key" value="com.rms.mex:spark-mex" />
+                <option name="longName" value="Model Execution" />
+                <option name="name" value="Model Execution" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.0.6" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1455131724000" />
+                <option name="date" value="1455711469000" />
+                <option name="description" value="Model execution using Spark" />
+                <option name="id" value="251" />
+                <option name="key" value="com.rms.sparkmex.benchmark.java:benchmark_java" />
+                <option name="longName" value="JMH benchmark sample: Java" />
+                <option name="name" value="JMH benchmark sample: Java" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1455131724000" />
+                <option name="date" value="1455711469000" />
+                <option name="description" value="Model execution using Spark" />
+                <option name="id" value="250" />
+                <option name="key" value="com.rms.sparkmex.benchmark.scala:benchmark_scala" />
+                <option name="longName" value="JMH benchmark sample: Scala" />
+                <option name="name" value="JMH benchmark sample: Scala" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1455131724000" />
+                <option name="date" value="1455711469000" />
+                <option name="description" value="Model execution using Spark" />
+                <option name="id" value="254" />
+                <option name="key" value="com.rms.mex:spark-mex-core" />
+                <option name="longName" value="Model Execution Core" />
+                <option name="name" value="Model Execution Core" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.0.6" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1455131724000" />
+                <option name="date" value="1455711469000" />
+                <option name="description" value="Tools for creating Imported and Model Data" />
+                <option name="id" value="337" />
+                <option name="key" value="com.rms.mex:spark-mex-tools" />
+                <option name="longName" value="Model Execution Core Tools" />
+                <option name="name" value="Model Execution Core Tools" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.0.6" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1455131724000" />
+                <option name="date" value="1455711469000" />
+                <option name="description" value="RMS(One) API" />
+                <option name="id" value="100" />
+                <option name="key" value="com.rms.mex:api-common" />
+                <option name="longName" value="Ral API Common Library" />
+                <option name="name" value="Ral API Common Library" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.0.6" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1455131724000" />
+                <option name="date" value="1455711469000" />
+                <option name="description" value="RMS(One) API" />
+                <option name="id" value="167" />
+                <option name="key" value="com.rms.mex:api-core" />
+                <option name="longName" value="Ral API Core" />
+                <option name="name" value="Ral API Core" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.0.6" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1455131724000" />
+                <option name="date" value="1455711469000" />
+                <option name="description" value="Model execution using Spark" />
+                <option name="id" value="53" />
+                <option name="key" value="com.rms.mex:core-configuration" />
+                <option name="longName" value="Spark Config Miscellaneous" />
+                <option name="name" value="Spark Config Miscellaneous" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.0.6" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1455131724000" />
+                <option name="date" value="1455711469000" />
+                <option name="description" value="RMS(One) API" />
+                <option name="id" value="99" />
+                <option name="key" value="com.rms.mex:api" />
+                <option name="longName" value="api" />
+                <option name="name" value="api" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.0.6" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1455131724000" />
+                <option name="date" value="1455711469000" />
+                <option name="description" value="risk-analysis-data" />
+                <option name="id" value="232" />
+                <option name="key" value="com.rms.mex:risk-analysis-data" />
+                <option name="longName" value="risk-analysis-data" />
+                <option name="name" value="risk-analysis-data" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.0.6" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1455131724000" />
+                <option name="date" value="1455711469000" />
+                <option name="description" value="shared-resources Resources" />
+                <option name="id" value="249" />
+                <option name="key" value="com.rms.mex:shared-resources" />
+                <option name="longName" value="shared-resources" />
+                <option name="name" value="shared-resources" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.0.6" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1455131724000" />
+                <option name="date" value="1455711469000" />
+                <option name="description" value="Model execution using Spark" />
+                <option name="id" value="60" />
+                <option name="key" value="com.rms.mex:spark-jobs" />
+                <option name="longName" value="spark-jobs" />
+                <option name="name" value="spark-jobs" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.0.6" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1455131724000" />
+                <option name="date" value="1455711469000" />
+                <option name="description" value="test-common" />
+                <option name="id" value="48" />
+                <option name="key" value="com.rms.mex:test-common" />
+                <option name="longName" value="test-common" />
+                <option name="name" value="test-common" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.0.6" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1457481455000" />
+                <option name="date" value="1461629822000" />
+                <option name="description" value="" />
+                <option name="id" value="354" />
+                <option name="key" value="com.rms:rms-data-manager" />
+                <option name="longName" value="RMS Data Manager" />
+                <option name="name" value="RMS Data Manager" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.0.13-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1457481458000" />
+                <option name="date" value="1461629822000" />
+                <option name="description" value="" />
+                <option name="id" value="471" />
+                <option name="key" value="com.rms:exchange" />
+                <option name="longName" value="Data Exchange" />
+                <option name="name" value="Data Exchange" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.0.13-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1461013428000" />
+                <option name="date" value="1461629822000" />
+                <option name="description" value="" />
+                <option name="id" value="598" />
+                <option name="key" value="com.rms:upload" />
+                <option name="longName" value="Data Exchange" />
+                <option name="name" value="Data Exchange" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.0.13-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1457481458000" />
+                <option name="date" value="1461629822000" />
+                <option name="description" value="" />
+                <option name="id" value="506" />
+                <option name="key" value="com.rms:dm-job" />
+                <option name="longName" value="Data Manager Job" />
+                <option name="name" value="Data Manager Job" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.0.13-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1457481458000" />
+                <option name="date" value="1461629822000" />
+                <option name="description" value="" />
+                <option name="id" value="479" />
+                <option name="key" value="com.rms:dm-common" />
+                <option name="longName" value="Data manager common" />
+                <option name="name" value="Data manager common" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.0.13-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1460571545000" />
+                <option name="date" value="1461629822000" />
+                <option name="description" value="" />
+                <option name="id" value="578" />
+                <option name="key" value="com.rms:domain-data" />
+                <option name="longName" value="Domain Data Module" />
+                <option name="name" value="Domain Data Module" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.0.13-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1460571545000" />
+                <option name="date" value="1461629822000" />
+                <option name="description" value="" />
+                <option name="id" value="573" />
+                <option name="key" value="com.rms:clean-task" />
+                <option name="longName" value="Job Sub Module - Clean Task" />
+                <option name="name" value="Job Sub Module - Clean Task" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.0.13-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1460571545000" />
+                <option name="date" value="1461629822000" />
+                <option name="description" value="" />
+                <option name="id" value="564" />
+                <option name="key" value="com.rms:download-task" />
+                <option name="longName" value="Job Sub Module - Download Task" />
+                <option name="name" value="Job Sub Module - Download Task" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.0.13-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1457481458000" />
+                <option name="date" value="1461629822000" />
+                <option name="description" value="" />
+                <option name="id" value="507" />
+                <option name="key" value="com.rms:exchange-task" />
+                <option name="longName" value="Job Sub Module - Exchange Task" />
+                <option name="name" value="Job Sub Module - Exchange Task" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.0.13-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1457481458000" />
+                <option name="date" value="1461629822000" />
+                <option name="description" value="" />
+                <option name="id" value="510" />
+                <option name="key" value="com.rms:upload-task" />
+                <option name="longName" value="Job Sub Module - Upload Task" />
+                <option name="name" value="Job Sub Module - Upload Task" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.0.13-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1457481458000" />
+                <option name="date" value="1461629822000" />
+                <option name="description" value="" />
+                <option name="id" value="462" />
+                <option name="key" value="com.rms:objectstorecore" />
+                <option name="longName" value="Object Store Core" />
+                <option name="name" value="Object Store Core" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.0.13-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1457481458000" />
+                <option name="date" value="1461629822000" />
+                <option name="description" value="" />
+                <option name="id" value="355" />
+                <option name="key" value="com.rms:dm-api" />
+                <option name="longName" value="RMS Data Manager API" />
+                <option name="name" value="RMS Data Manager API" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.0.13-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1454630458000" />
+                <option name="date" value="1456244429000" />
+                <option name="description" value="RMS(One) Auth" />
+                <option name="id" value="1" />
+                <option name="key" value="com.rms:rms-one-auth" />
+                <option name="longName" value="RMS(One) Auth" />
+                <option name="name" value="RMS(One) Auth" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.0.5-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1454630462000" />
+                <option name="date" value="1456244429000" />
+                <option name="description" value="RMS(One) Auth - API - Core" />
+                <option name="id" value="2" />
+                <option name="key" value="com.rms:auth-api" />
+                <option name="longName" value="RMS(One) Auth - API - Core" />
+                <option name="name" value="RMS(One) Auth - API - Core" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.0.5-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1455276501000" />
+                <option name="date" value="1455721368000" />
+                <option name="description" value="" />
+                <option name="id" value="349" />
+                <option name="key" value="com.rms:ci-resources-integration-java" />
+                <option name="longName" value="ci-resources-integration-java" />
+                <option name="name" value="ci-resources-integration-java" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.38" />
+              </Resource>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

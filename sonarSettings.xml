@@ -1,0 +1,14 @@
+<application>
+  <component name="sonarServers">
+    <option name="beans">
+      <list>
+        <SonarServerConfig>
+          <option name="hostUrl" value="https://sonarqube.aws.rmsonecloud.net/" />
+          <option name="name" value="Sonar" />
+          <option name="passwordChanged" value="true" />
+          <option name="user" value="kananthasayanam" />
+        </SonarServerConfig>
+      </list>
+    </option>
+  </component>
+</application>

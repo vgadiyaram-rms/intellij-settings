@@ -1,0 +1,14 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <password>dff8dfe7dff9dfdadfcbdfd9dfd9dfdddfc5dfd8dfcedf9b</password>
+          <option name="hostUrl" value="https://sonarqube.aws.rmsonecloud.net/" />
+          <option name="login" value="kananthasayanam" />
+          <option name="name" value="SonarQube" />
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
