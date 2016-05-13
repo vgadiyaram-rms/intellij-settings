@@ -2,4 +2,10 @@
   <component name="DaemonCodeAnalyzerSettings">
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
+  <component name="JavaCodeFoldingSettings">
+    <option name="collapseAnonymousClasses" value="true" />
+    <option name="collapseInnerClasses" value="true" />
+    <option name="COLLAPSE_INNER_CLASSES" value="true" />
+    <option name="COLLAPSE_ANONYMOUS_CLASSES" value="true" />
+  </component>
 </application>
