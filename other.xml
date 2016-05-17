@@ -55,4 +55,16 @@
     <option name="RENAME_VARIABLES" value="false" />
     <option name="RENAME_TESTS" value="false" />
   </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="http://svn.apache.org/repos/asf/hadoop/common/trunk/" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="http://svn.apache.org/repos/asf/hadoop/common/trunk/" />
+      </list>
+    </option>
+  </component>
 </application>
