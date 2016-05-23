@@ -3,7 +3,6 @@
     <option name="customScope" value="Module 'osdownload-task'" />
     <option name="defaultScopeName" value="Module 'osdownload-task'" />
     <option name="SEARCH_SCOPE" value="Module 'osdownload-task'" />
-    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
