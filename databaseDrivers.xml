@@ -67,6 +67,12 @@
     </driver>
     <driver id="sqlserver.ms" name="SQL Server (Microsoft)" dialect="TSQL">
       <option name="auto-sync" value="true" />
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/sqlserver-driver-license.txt</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/sqljdbc4-4.0.2206.100.jar</url>
+      </library>
     </driver>
     <driver id="java.sql.Driver" name="Apache Drill" dialect="GenericSQL" driver-class="org.apache.drill.jdbc.Driver">
       <url-template name="localhost" template="jdbc:drill:drillbit=localhost:31010" />
