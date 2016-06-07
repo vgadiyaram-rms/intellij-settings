@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Module 'osdownload-task'" />
-    <option name="defaultScopeName" value="Module 'osdownload-task'" />
-    <option name="SEARCH_SCOPE" value="Module 'osdownload-task'" />
+    <option name="customScope" value="File '/Users/vpandey/Documents/Projects/rms-one-import/import-api/src/main/java/com/rms/transform/api/resources/ValidationResource.java'" />
+    <option name="defaultScopeName" value="File '/Users/vpandey/Documents/Projects/rms-one-import/import-api/src/main/java/com/rms/transform/api/resources/ValidationResource.java'" />
+    <option name="SEARCH_SCOPE" value="File '/Users/vpandey/Documents/Projects/rms-one-import/import-api/src/main/java/com/rms/transform/api/resources/ValidationResource.java'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
