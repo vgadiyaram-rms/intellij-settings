@@ -4,4 +4,7 @@
     <option name="RENAME_SEARCH_IN_NON_CODE_FILES" value="true" />
     <option name="ASK_USE_LATEST_PLUGIN_BUILDS" value="false" />
   </component>
+  <component name="TypeAwareHighlightingApplicationState">
+    <option name="SUGGEST_TYPE_AWARE_HIGHLIGHTING_ENABLED" value="true" />
+  </component>
 </application>
