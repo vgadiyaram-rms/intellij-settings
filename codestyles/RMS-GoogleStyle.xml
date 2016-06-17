@@ -279,14 +279,6 @@
     <option name="ALIGN_MULTILINE_ANNOTATION_PARAMETERS" value="true" />
     <option name="CLASS_NAMES_IN_JAVADOC" value="3" />
   </JavaCodeStyleSettings>
-  <ScalaCodeStyleSettings>
-    <option name="addImportMostCloseToReference" value="true" />
-    <option name="FINALLY_BRACE_FORCE" value="3" />
-    <option name="TRY_BRACE_FORCE" value="3" />
-    <option name="SD_BLANK_LINE_AFTER_PARAMETERS_COMMENTS" value="true" />
-    <option name="SD_BLANK_LINE_AFTER_RETURN_COMMENTS" value="true" />
-    <option name="SD_BLANK_LINE_BEFORE_PARAMETERS" value="true" />
-  </ScalaCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
