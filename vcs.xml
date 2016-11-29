@@ -66,4 +66,7 @@
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
   </component>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/IdeaProjects/rms-one-import" />
+  </component>
 </application>
